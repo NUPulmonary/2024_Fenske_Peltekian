@@ -1,4 +1,4 @@
-# X2B8
+# 2024_Fenske_Peltekian
 Published code repository for *Developing and validating a machine learning model to predict successful next-day extubation in the ICU*
 
-This will remain private until approved by DBMI core.
+Preprint [here]([url](https://www.medrxiv.org/content/10.1101/2024.06.28.24309547v1)).
